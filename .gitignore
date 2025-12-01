@@ -1,0 +1,11 @@
+myenv/
+
+__pycache__/
+Old Code/
+*.pyc
+
+.env
+
+.DS_Store
+Thumbs.db
+
